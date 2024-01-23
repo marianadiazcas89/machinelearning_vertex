@@ -1,0 +1,46 @@
+{
+    "sentimentAnnotation": {
+      "sentiment": 0,
+      "sentimentMax": 10
+    },
+    "textContent": "Este producto es terrible. No lo compre.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "sentimentAnnotation": {
+      "sentiment": 1,
+      "sentimentMax": 10
+    },
+    "textContent": "Este producto es bueno, pero podría mejorarse.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "sentimentAnnotation": {
+      "sentiment": 2,
+      "sentimentMax": 10
+    },
+    "textContent": "Este producto es excelente. Lo recomiendo.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  ...
+  
+  {
+    "sentimentAnnotation": {
+      "sentiment": 9,
+      "sentimentMax": 10
+    },
+    "textContent": "Este producto es lo mejor que he probado.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  

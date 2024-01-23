@@ -1,0 +1,10 @@
+{"sentimentAnnotation":{"sentiment":6,"sentimentMax":10},"textContent":"Good, but not great. Has potential.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":7,"sentimentMax":10},"textContent":"Quite satisfying, a solid choice overall.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":8,"sentimentMax":10},"textContent":"Really impressed with the features and quality.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":9,"sentimentMax":10},"textContent":"Exceeds expectations, one of the best in its category.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":10,"sentimentMax":10},"textContent":"Top-notch, unparalleled in its performance and quality.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":0,"sentimentMax":10},"textContent":"Extremely poor quality, totally unusable.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":1,"sentimentMax":10},"textContent":"Very dissatisfied, would not recommend to anyone.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":2,"sentimentMax":10},"textContent":"Lacks functionality, not up to the mark.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":3,"sentimentMax":10},"textContent":"Fairly average, nothing to write home about.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}
+{"sentimentAnnotation":{"sentiment":4,"sentimentMax":10},"textContent":"Some good aspects, but also several drawbacks.","dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"test"}}

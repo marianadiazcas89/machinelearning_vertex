@@ -1,0 +1,103 @@
+[
+    {
+      "sentimentAnnotation": {
+        "sentiment": 0,
+        "sentimentMax": 10
+      },
+      "textContent": "This product is terrible. Do not buy it.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 1,
+        "sentimentMax": 10
+      },
+      "textContent": "Very disappointing experience, would not recommend.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 2,
+        "sentimentMax": 10
+      },
+      "textContent": "Not great, had some serious flaws.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 3,
+        "sentimentMax": 10
+      },
+      "textContent": "Below average, but there are some redeeming qualities.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 4,
+        "sentimentMax": 10
+      },
+      "textContent": "Mediocre, not impressed.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 5,
+        "sentimentMax": 10
+      },
+      "textContent": "Average, has both pros and cons.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 6,
+        "sentimentMax": 10
+      },
+      "textContent": "Fairly good, but could be better.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 7,
+        "sentimentMax": 10
+      },
+      "textContent": "Good product, I'm quite satisfied.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 8,
+        "sentimentMax": 10
+      },
+      "textContent": "Very good, almost perfect.",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    },
+    {
+      "sentimentAnnotation": {
+        "sentiment": 9,
+        "sentimentMax": 10
+      },
+      "textContent": "Excellent product, exceeded my expectations!",
+      "dataItemResourceLabels": {
+        "aiplatform.googleapis.com/ml_use": "validation"
+      }
+    }
+  ]
+  

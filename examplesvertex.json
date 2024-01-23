@@ -1,0 +1,305 @@
+
+  {
+    "sentimentAnnotation": {
+      "sentiment": 0,
+      "sentimentMax": 10
+    },
+    "textContent": "This product is terrible. Do not buy it.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 1,
+      "sentimentMax": 10
+    },
+    "textContent": "Very disappointed. Hardly works as expected.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 2,
+      "sentimentMax": 10
+    },
+    "textContent": "Not great. There are several issues with this item.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 3,
+      "sentimentMax": 10
+    },
+    "textContent": "It's just okay, not what I expected though.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 4,
+      "sentimentMax": 10
+    },
+    "textContent": "Could be better. Some features don't work well.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 5,
+      "sentimentMax": 10
+    },
+    "textContent": "Average product. Meets the basic requirements.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 6,
+      "sentimentMax": 10
+    },
+    "textContent": "Pretty good, but there's room for improvement.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 7,
+      "sentimentMax": 10
+    },
+    "textContent": "I liked it. Quite useful and reliable.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 8,
+      "sentimentMax": 10
+    },
+    "textContent": "Very good product, almost perfect.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 9,
+      "sentimentMax": 10
+    },
+    "textContent": "Impressive. Exceeds my expectations.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 10,
+      "sentimentMax": 10
+    },
+    "textContent": "Absolutely perfect! Best purchase ever!",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 0,
+      "sentimentMax": 10
+    },
+    "textContent": "Horrible experience. It broke on the first use.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 1,
+      "sentimentMax": 10
+    },
+    "textContent": "Very unsatisfied. Poor quality and performance.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 0,
+      "sentimentMax": 10
+    },
+    "textContent": "This product is terrible. Do not buy it.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 1,
+      "sentimentMax": 10
+    },
+    "textContent": "I was very disappointed with this service.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 2,
+      "sentimentMax": 10
+    },
+    "textContent": "The quality is not as good as I expected.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 3,
+      "sentimentMax": 10
+    },
+    "textContent": "It's okay, but it could be better.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 4,
+      "sentimentMax": 10
+    },
+    "textContent": "The product works, but it has some minor issues.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 5,
+      "sentimentMax": 10
+    },
+    "textContent": "This is an average product. Nothing special.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 6,
+      "sentimentMax": 10
+    },
+    "textContent": "It's pretty good, but there's room for improvement.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 7,
+      "sentimentMax": 10
+    },
+    "textContent": "I liked it, it's quite useful and efficient.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 8,
+      "sentimentMax": 10
+    },
+    "textContent": "Great product, almost perfect!",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 9,
+      "sentimentMax": 10
+    },
+    "textContent": "This service is amazing, highly recommended!",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 10,
+      "sentimentMax": 10
+    },
+    "textContent": "Absolutely perfect! Exceeded all my expectations!",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 0,
+      "sentimentMax": 10
+    },
+    "textContent": "Worst experience ever, completely unsatisfactory.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 1,
+      "sentimentMax": 10
+    },
+    "textContent": "Not worth the money, very disappointing product.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 2,
+      "sentimentMax": 10
+    },
+    "textContent": "The product underperforms and lacks quality.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 3,
+      "sentimentMax": 10
+    },
+    "textContent": "Mediocre at best, not what I was hoping for.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 4,
+      "sentimentMax": 10
+    },
+    "textContent": "Has some positives, but also many negatives.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  {
+    "sentimentAnnotation": {
+      "sentiment": 5,
+      "sentimentMax": 10
+    },
+    "textContent": "An ordinary product, nothing too exciting.",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+
+  
+
+  
